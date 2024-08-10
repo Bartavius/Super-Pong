@@ -1,2 +1,2 @@
 # Super-Pong
-This is pong with a few extra steps
+This is Pong with a few extra steps. It has super powers; uses the turtle package.
